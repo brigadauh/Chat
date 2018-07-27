@@ -1,0 +1,23 @@
+.ManageUsers-box {
+    width: 300px;
+    position: fixed;
+    top: 10%;
+    left: calc(50% - 150px);
+    margin: auto;
+    border:1px solid #ccc;
+    padding:30px;
+}
+.ManageUsers-bttn-submit{
+    width:35%;
+    min-width:100px;
+    float:left;
+    background-color:#656565;
+    color:white;
+
+}
+.ManageUsers-bttn-close{
+    width:35%;
+    min-width:100px;
+    float:right;
+    background-color:#dddddd;
+}

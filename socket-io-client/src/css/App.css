@@ -1,0 +1,48 @@
+html, body {
+    height:100%;
+}
+.App-menu-left{
+    float:left;
+    width:200px;
+    display:block;
+}
+.App-main {
+    float:right;
+    width:calc(100% - 200px);
+    height:100%;
+    display:block;
+    border-left: solid 1px #ccc;
+}
+.App-chat-history-box {
+    height:100%;
+    max-height:calc(100% - 105px);
+    min-height:calc(100% - 105px);
+    width:100%;
+    overflow-y: auto;
+}
+    .App-chat-history-box table{
+        height:100%;
+    }
+    .App-chat-history-box td {
+        vertical-align: bottom;
+    }
+.App-chat-history-msg {
+    display:block;
+    margin-bottom:0px;
+    width:100%;
+    border:none;
+    background-color: transparent;
+}
+.App-chat-message-box {
+    width:100%;
+    border-top: 1px solid #ccc;
+}
+.App-chat-message-box textarea {
+    outline: none;
+    border: none;
+}
+.App-login-layout {
+    width:100%;
+    height:100%;
+    background-color: #cccccc;
+}
