@@ -33,14 +33,14 @@ Negan: negan / qwerty123
 ## Basic functionality:
 Chat in public or private rooms  
 Private chat between 2 peers  
-Add rooms (public or private for specified accounts)
-Delete rooms
+Add rooms (public or private for specified accounts) 
+Delete rooms 
 
 ## Not implemented:
-Persistence of a user session (users get logged off when page is refreshed)
-Persistence of added content (history and new rooms are stored in server memory)  
-Add/Remove users from existing groups
-Account creation
+Persistence of a user session (users get logged off when page is refreshed) 
+Persistence of added content (history and new rooms are stored in server memory) 
+Add/Remove users from existing groups 
+Account creation 
 
 
 
